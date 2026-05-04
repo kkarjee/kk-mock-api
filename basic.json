@@ -1,0 +1,9 @@
+{
+  "orgId": "56565",
+  "cerId": "cer-1",
+  "coreProductId": "PropertyDtlEssential",
+  "data": {
+    "uom": "property",
+    "count": 50
+  }
+}
